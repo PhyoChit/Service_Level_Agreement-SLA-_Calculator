@@ -7,7 +7,7 @@ The SLA Calculator is a JavaScript application designed to calculate the due dat
 - Input fields for start and end of business hours, SLA response time, and ticket creation date.
 - Calculates due dates by excluding weekends and non-business hours.
 - Simple and user-friendly interface.
-![SLA Calculator Interface](/sla_demo.jpg "SLA Calculator Interface"")
+![SLA Calculator Demo](sla_demo.jpg "SLA Calculator Demo")
 
 
 ## Setup
