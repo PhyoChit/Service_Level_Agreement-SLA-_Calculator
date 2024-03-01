@@ -37,6 +37,5 @@ The expected output for the above inputs would be February 27, 2024, at 1:00 PM,
 ## Contribution
 Contributions to this project are welcome. Please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
